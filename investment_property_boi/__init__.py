@@ -1,0 +1,1 @@
+from .investment_property import InvestmentProperty
